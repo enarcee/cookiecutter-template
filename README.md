@@ -1,6 +1,9 @@
 cookiecutter-template
 ==============================
 
+Adapted from https://drivendata.github.io/cookiecutter-data-science for my use case. With thanks.
+@author: Nick Cross
+
 Project Template
 
 Project Organization
